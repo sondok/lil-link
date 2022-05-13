@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
 var index_page = `
 <!DOCTYPE html>
 <html>
@@ -205,3 +211,5 @@ async function handlePostRequest(request) {
     return rawHtmlResponse(already_exists);
   }
 }
+</body>
+</html>
