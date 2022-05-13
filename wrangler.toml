@@ -7,7 +7,7 @@ route = ""
 
 [[kv-namespaces]]
 binding = "HITS"
-id = ""
+id = "b7d070d0ecb341c390a7f5f6576e2bea"
 [[kv-namespaces]]
 binding = "SHORTLINKS"
-id = ""
+id = "0355118420324b73bdec772b09cddef5"
